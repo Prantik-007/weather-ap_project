@@ -1,4 +1,4 @@
-# weather-ap_project🌦️
+# weather-ap_project🌦️  ----------------->https://prantik-007.github.io/weather-ap_project/
 --------------------------------------------------------------------------------------------------------------------------------------------------
 A simple weather web app built with HTML, CSS, and JavaScript that fetches real-time weather data from WeatherAPI
 .
